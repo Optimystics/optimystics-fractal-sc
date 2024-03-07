@@ -11,4 +11,5 @@ artifacts
 
 # OpenZeppelin
 .openzeppelin/unknown-*.json
+!.openzeppelin/unknown-11155420.json
 
